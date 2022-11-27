@@ -2,4 +2,4 @@
 
 
 
-Calculadora de média escolar feita em JavaScript
+Alguns exercícios de JavaScript feitos
